@@ -1,6 +1,6 @@
 <div style="background: linear-gradient(to bottom right, #e0f7e9, #ffffff); padding: 20px; border-radius: 10px;">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C00&width=435&lines=Hello%2C+I'm+VuGiang!+;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C00&width=435&lines=Hello%2C+I'm+ThinDev!+;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 ---
 
